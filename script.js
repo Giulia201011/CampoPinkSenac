@@ -84,8 +84,3 @@ function dispararConfetes() {
     });
 }
 inicializarTorneio();
-     })
-  })
-}
-carregarTime()
- 
